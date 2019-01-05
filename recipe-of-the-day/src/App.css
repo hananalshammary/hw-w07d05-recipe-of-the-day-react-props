@@ -1,0 +1,23 @@
+.firstPart{
+    background-color: rgb(208, 227,241);
+}
+
+.secondPart{
+    background-color: rgb(212, 239,234);
+}
+
+.border {
+    border: 1px solid palevioletred;
+  }
+
+.secondHead{
+    background-color: rgb(197, 212,219);
+}
+
+.threePart{
+    background-color: rgb(191, 235,236);
+}
+
+.body{
+    background-color: blue;
+}
